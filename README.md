@@ -41,6 +41,7 @@ Feature in discovery phase. We have decided to build this feature, but are still
 - **exploring:**\
 Feature under consideration. We are considering building this feature, and gathering feedback on it.
 
+
 ## Release phases - For GHES
 
 Some features may be marked with a GHES 3.X label, which indicates that the feature will also become available for Github Enterprise Server customers. Below are the release version numbers and expected release quarters (_Note: these dates are subject to change_). 
