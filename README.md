@@ -51,7 +51,7 @@ Some features may be marked with a GHES 3.X label, which indicates that the feat
 | 3.12 | Q1 2024 | [Release Notes](https://docs.github.com/en/enterprise-server@3.12/admin/release-notes#3.12.0)|
 | 3.13 | Q2 2024 | [Release Notes](https://docs.github.com/en/enterprise-server@3.13/admin/release-notes#3.13.0)|
 | 3.14 | Q3 2024 | [Release Notes](https://docs.github.com/en/enterprise-server@3.14/admin/release-notes) |
-| 3.15 | Q4 2024 | -- |
+| 3.15 | Q4 2024 | [Release Notes](https://docs.github.com/en/enterprise-server@3.15/admin/release-notes) |
 
 ## Roadmap stages
 
